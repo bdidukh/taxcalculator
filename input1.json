@@ -1,0 +1,23 @@
+[
+  {
+    "description": "Jack London",
+    "category": "BOOK",
+    "count": 1,
+    "unitPrice": 12.49,
+    "imported": false
+  },
+  {
+    "description": "Chocolate Bar",
+    "category": "FOOD",
+    "count": 1,
+    "unitPrice": 0.85,
+    "imported": false
+  },
+  {
+    "description": "AC/DC",
+    "category": "MUSIC",
+    "count": 1,
+    "unitPrice": 14.99,
+    "imported": false
+  }
+]

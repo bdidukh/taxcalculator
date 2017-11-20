@@ -1,0 +1,16 @@
+[
+  {
+    "description": "Chocolate Bar",
+    "category": "FOOD",
+    "count": 1,
+    "unitPrice": 10.00,
+    "imported": true
+  },
+  {
+    "description": "Parfume",
+    "category": "BEAUTY",
+    "count": 1,
+    "unitPrice": 47.50,
+    "imported": true
+  }
+]

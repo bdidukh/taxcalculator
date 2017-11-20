@@ -1,0 +1,30 @@
+[
+  {
+    "description": "Parfume",
+    "category": "BEAUTY",
+    "count": 1,
+    "unitPrice": 27.99,
+    "imported": true
+  },
+  {
+    "description": "Parfume",
+    "category": "BEAUTY",
+    "count": 1,
+    "unitPrice": 18.99,
+    "imported": false
+  },
+  {
+    "description": "Pills",
+    "category": "DRUGS",
+    "count": 1,
+    "unitPrice": 9.75,
+    "imported": false
+  },
+  {
+    "description": "Chocolate Bar",
+    "category": "FOOD",
+    "count": 1,
+    "unitPrice": 11.25,
+    "imported": true
+  }
+]
